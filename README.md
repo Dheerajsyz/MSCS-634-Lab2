@@ -50,14 +50,4 @@ Tested with radius values: 350, 400, 450, 500, 550, 600
 - Feature scaling with StandardScaler was critical for both models
 
 
-## Project Structure
-
-```
-lab2/
-├── .github/
-│   └── copilot-instructions.md
-├── lab2_knn_rnn_analysis.ipynb
-├── README.md
-└── requirements.txt
-```
 
